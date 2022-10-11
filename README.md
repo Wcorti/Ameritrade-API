@@ -1,1 +1,2 @@
 # Ameritrade-API
+A simple python program that was used to practice API implementation. This program will access the Ameritrade API and download the fundamental stock data for all publicly traded companies. It will pickle this data, filter it by predefined metrics then output it to an excel sheet. 
